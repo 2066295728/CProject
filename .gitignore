@@ -5,6 +5,9 @@
 /.vscode/
 /lua-5.4.8/
 /*.code-workspace
+/build/
+/cmake-build-debug/
+/cmake-build-release/
 
 # 基于编辑器的 HTTP 客户端请求
 /httpRequests/
